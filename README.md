@@ -18,7 +18,7 @@ All the data required to run the code can be found in the subfolder titled:
 
 The original data can be found on Zenodo:
 
-DOI: TBD
+https://doi.org/10.5281/zenodo.14989633
 
 and in Supplementary Table 1 of the manuscript:
 
