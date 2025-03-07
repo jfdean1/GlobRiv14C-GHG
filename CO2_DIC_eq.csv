@@ -1,0 +1,25 @@
+Site_ID,Data_source,Site_type,Date,CO2,DIC,pH,T
+AC,This study,fluvial,13/09/2022,0.97,0.9231,6.55,12.9
+BB,This study,fluvial,15/09/2022,0.9909,0.9629,6.62,12.4
+CB,This study,fluvial,14/09/2022,0.9661,0.9458,7.48,11.5
+DB,This study,fluvial,14/09/2022,0.9855,0.9479,6.8,12.4
+F1,This study,fluvial,11/09/2022,0.9395,0.9251,6.64,14.7
+F2,This study,fluvial,10/09/2022,0.9629,0.9335,6.74,17
+F3,This study,fluvial,08/09/2022,0.926,0.904,6.27,13.8
+F4,This study,fluvial,09/09/2022,0.9384,0.9226,4.97,13.6
+A10,This study,fluvial,28/02/2006,0.9099,0.9149,5.87,1.4
+A2,This study,fluvial,28/02/2006,0.9529,0.9504,6.24,2.7
+CHS,This study,fluvial,19/04/2006,0.9403,0.8095,4.2,6.5
+A10,This study,fluvial,29/05/2006,0.8895,0.8951,6.37,10.1
+A2,This study,fluvial,29/05/2006,0.9646,0.9423,6.24,9.3
+CHS,This study,fluvial,27/07/2006,0.9362,0.8742,5.59,19.9
+Manu,This study,fluvial,14/03/2019,0.8181,0.7829,7.7,25.3
+Greenpepper,"Garcia-Tigreros, F., Elder, C.D., Kurek, M.R. et al. (2023) Arctic-boreal lakes of interior Alaska dominated by contemporary carbon. Environ. Res. Lett. 18, 124024. https://doi.org/10.1088/1748-9326/ad0993",lake,29/08/2021,0.99,0.99,8.9,14.1
+Shack,"Garcia-Tigreros, F., Elder, C.D., Kurek, M.R. et al. (2023) Arctic-boreal lakes of interior Alaska dominated by contemporary carbon. Environ. Res. Lett. 18, 124024. https://doi.org/10.1088/1748-9326/ad0993",lake,29/08/2021,1,1,8.5,13.3
+West Crazy,"Garcia-Tigreros, F., Elder, C.D., Kurek, M.R. et al. (2023) Arctic-boreal lakes of interior Alaska dominated by contemporary carbon. Environ. Res. Lett. 18, 124024. https://doi.org/10.1088/1748-9326/ad0993",lake,29/08/2021,1.03,1.02,7.6,12.1
+Canvasback,"Garcia-Tigreros, F., Elder, C.D., Kurek, M.R. et al. (2023) Arctic-boreal lakes of interior Alaska dominated by contemporary carbon. Environ. Res. Lett. 18, 124024. https://doi.org/10.1088/1748-9326/ad0993",lake,31/08/2021,0.99,1.01,10,11.6
+Boot,"Garcia-Tigreros, F., Elder, C.D., Kurek, M.R. et al. (2023) Arctic-boreal lakes of interior Alaska dominated by contemporary carbon. Environ. Res. Lett. 18, 124024. https://doi.org/10.1088/1748-9326/ad0993",lake,31/08/2021,1.03,1.02,8.1,14.2
+YF18,"Garcia-Tigreros, F., Elder, C.D., Kurek, M.R. et al. (2023) Arctic-boreal lakes of interior Alaska dominated by contemporary carbon. Environ. Res. Lett. 18, 124024. https://doi.org/10.1088/1748-9326/ad0993",lake,31/08/2021,0.98,1,9.4,12.6
+Twelvemile,"Garcia-Tigreros, F., Elder, C.D., Kurek, M.R. et al. (2023) Arctic-boreal lakes of interior Alaska dominated by contemporary carbon. Environ. Res. Lett. 18, 124024. https://doi.org/10.1088/1748-9326/ad0993",lake,02/09/2021,1.04,1.03,8.5,13.7
+Thumb,"Garcia-Tigreros, F., Elder, C.D., Kurek, M.R. et al. (2023) Arctic-boreal lakes of interior Alaska dominated by contemporary carbon. Environ. Res. Lett. 18, 124024. https://doi.org/10.1088/1748-9326/ad0993",lake,02/09/2021,1,1.03,9.1,12.9
+Twin,"Garcia-Tigreros, F., Elder, C.D., Kurek, M.R. et al. (2023) Arctic-boreal lakes of interior Alaska dominated by contemporary carbon. Environ. Res. Lett. 18, 124024. https://doi.org/10.1088/1748-9326/ad0993",lake,02/09/2021,1.02,1.02,7.9,13.9

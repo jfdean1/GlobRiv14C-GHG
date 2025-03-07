@@ -1,0 +1,18 @@
+Year
+Mean elevation
+Mean annual precipitation
+Mean annual temperature
+Snow cover extent
+Wetland class extent
+Forest cover extent
+Irrigation area extent
+Glacier extent
+Permafrost extent
+Soil clay fraction
+Soil sand fraction
+Organic carbon content
+Karst area extent
+Soil erosion
+Urban extent
+Human footprint influence
+Groundwater table depth
