@@ -313,7 +313,7 @@ ggdraw() +
                   x = c(0.005, 0.005, 0.38),
                   y = c(1, 0.5, 0.5))
 
-ggsave("Fig_1.png", width = 18.5, height = 19, units = c("cm"), dpi = 600)
+ggsave("Fig_1.pdf", width = 18.5, height = 19, units = c("cm"), dpi = 600)
 
 
 
@@ -522,7 +522,7 @@ Fig_GlobF14C_biome_bin = ggplot(Glob_F14C_biome_bin, aes(x = reorder(biome_bin, 
   scale_fill_manual(values=c("#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF","#FFFFFF")) +
   scale_y_continuous(limits = c(0.0,1.4), breaks = c(0,0.2,0.4,0.6,0.8,1,1.2,1.4),
                      sec.axis = sec_axis(~ -8033*log((. * 100)/100), 
-                                         name = expression(''^14*'C years'),
+                                         name = expression('Indicative '^14*'C years'),
                                          breaks = c(0,1000,4000,10000,40000))) +
   annotate("text", x=8.8, y = 1.22, size=3, angle = 270, label='modern') +
   coord_cartesian(xlim = c(1, 8), clip = "off") +
@@ -624,7 +624,7 @@ ggdraw() +
                   x = c(0.005, 0.38, 0.005),
                   y = c(1, 1, 0.55))
 
-ggsave("Fig_2.png", width = 14, height = 20, units = c("cm"), dpi = 600)
+ggsave("Fig_2.pdf", width = 14, height = 20, units = c("cm"), dpi = 600)
 
 
 
